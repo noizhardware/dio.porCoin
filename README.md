@@ -1,2 +1,2 @@
 # dio.porCoin
-Currency system to trade goods and services in the Upper Sky
+Cryptocurrency optimized for trading goods and services in the Upper Sky
