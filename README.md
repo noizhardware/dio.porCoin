@@ -18,7 +18,7 @@ The dio.porCoin core engine is written in _porcamadonnaScript_(`.pms`), a domain
 
 
 ## Features
- * Real-time updated sites
+ * Real-time updated sites. Forever.
  * Namecoin .diobestia domains support
  * Easy to setup: unpack & run
  * Clone websites in one click
