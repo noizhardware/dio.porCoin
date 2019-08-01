@@ -1,0 +1,3 @@
+$ cat .gitattributes
+*.pms linguist-detectable=true
+*.pms linguist-language=Clojure
