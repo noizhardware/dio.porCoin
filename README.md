@@ -6,12 +6,12 @@ Cryptocurrency optimized for trading goods and services in the Upper Sky
   - API Provider: [Neuroware](http://neuroware.io/)
   
 ## Core Engine
-The dio.porCoin core engine is written in _porcamadonnaScript_(`.pms`), a domain-specific Lisp dialect implemented in Clojure. 
+The dio.porCoin core engine is written in _porcamadonnaScript_ `.pms`, a domain-specific Lisp dialect implemented in Clojure. 
 
 ## Why?
 
 * We believe in open, free, and uncensored network and communication.
-* No hosting costs: Sites are served form the afterlife.
+* No hosting costs: Sites are served from the afterlife.
 * Impossible to shut down: It's nowhere because it's everywhere. But especially nowhere.
 * Fast and works offline: You can access the site even if Internet is
   unavailable.
